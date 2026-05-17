@@ -1,7 +1,10 @@
-# React + Vite
+# speakrn
 
 This is a project I did for my personal growth. I speak in front of the camera for 60 seconds every single day so I thought-
 1- let's make a random word generator and 60 second speaking challenge app
+
+
+React+Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
